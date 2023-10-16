@@ -13,7 +13,7 @@ cout << "Wybierz dzialanie :" << endl << "1. Dodawanie" << endl
 << "3. Mnozenie" << endl << "4. Dzielenie" << endl << "5. pierwiastkowanie"
 << endl << "6. potegowanie" << endl << "7. pole kola" << endl << endl
 << "Wybierz inna liczbe aby wyjsc"
-<< endl << endl;
+<< endl;
 cin >> dzialanie;
 
 switch (dzialanie){
